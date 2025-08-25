@@ -14,6 +14,6 @@ Hi, my name is **Xyntrax**. I am into threat hunting and malware analysis, but I
 ## IDEs That I Use:
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" height="40" style="vertical-align:top; margin:4px">
   <img src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png" alt="Sublime Text" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" height="40" style="vertical-align:top; margin:4px">
 </p>
