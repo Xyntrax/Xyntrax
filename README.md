@@ -9,16 +9,17 @@
   https://www.malwareanalysis-for-hedgehogs.com/home
 
 <h3 align="left">Created Useful Tools</h3>
-<p>
   <a href="https://github.com/Xyntrax/FRST-Web-Based-Cleaner">
     <img src="https://img.shields.io/badge/FRST%20Web%20Based%20Cleaner-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p>
 
   <a href="https://github.com/Xyntrax/FRST_log_cleaner" target="_blank">
    <img src="https://img.shields.io/badge/FRST%20Log%20Cleaner-181717?style=for-the-badge&logo=github&logoColor=white" alt="FRST Log Cleaner"/>
   </a>
 
+  <a href="https://github.com/Xyntrax/FRST-Log-Editor" target="_blank">
+    <img src="https://img.shields.io/badge/FRST%20Log%20Editor-181717?style=for-the-badge&logo=github&logoColor=white" alt="FRST Log Editor"/>
+  </a>
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
