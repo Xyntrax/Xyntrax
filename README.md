@@ -66,4 +66,3 @@
    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/DaVinci_Resolve_Studio.png" alt="DaVinci Resolve Studio" width="40" height="40"/>
   </a>
 </p>
-
