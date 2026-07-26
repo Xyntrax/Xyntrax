@@ -21,6 +21,10 @@
     <img src="https://img.shields.io/badge/FRST%20Log%20Editor-181717?style=for-the-badge&logo=github&logoColor=white" alt="FRST Log Editor"/>
   </a>
 
+  <a href="https://github.com/Xyntrax/MBAM-Log-Parser" target="_blank">
+    <img src="https://img.shields.io/badge/MBAM%20Log%20Parser-181717?style=for-the-badge&logo=github&logoColor=white" alt="MBAM Log Parser"/>
+  </a>
+
 <h3 align="left">Connect with me</h3>
 <p align="left">
   <a href="https://www.bleepingcomputer.com/forums/u/1353725/xyntrax/" target="_blank">
