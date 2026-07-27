@@ -9,8 +9,8 @@
   https://www.malwareanalysis-for-hedgehogs.com/home
 
 <h3 align="left">Created Useful Tools</h3>
-  <a href="https://github.com/Xyntrax/FRST-Web-Based-Cleaner">
-    <img src="https://img.shields.io/badge/FRST%20Web%20Based%20Cleaner-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/Xyntrax/FRST-Web-Cleaner" target="_blank">
+    <img src="https://img.shields.io/badge/FRST%20Web%20Cleaner-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
   <a href="https://github.com/Xyntrax/MBAM-Web-Parser" target="_blank">
