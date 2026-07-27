@@ -14,7 +14,7 @@
   </a>
 
   <a href="https://github.com/Xyntrax/MBAM-Web-Parser" target="_blank">
-    <img src="https://img.shields.io/badge/Web%20Based%20MBAM%20Log%20Parser-181717?style=for-the-badge&logo=github&logoColor=white" alt="Web Based MBAM Log Parser"/>
+    <img src="https://img.shields.io/badge/Web%20Based%20MBAM%20Log%20Parser-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
   <a href="https://github.com/Xyntrax/FRST_log_cleaner" target="_blank">
