@@ -32,7 +32,7 @@
 <h3 align="left">Connect with me</h3>
 <p align="left">
   <a href="https://www.bleepingcomputer.com/forums/u/1353725/xyntrax/" target="_blank">
-    <img src="https://img.shields.io/badge/BleepingComputer-00599C?style=for-the-badge&logo=windows&logoColor=white" alt="BleepingComputer"/>
+    <img src="https://img.shields.io/badge/BleepingComputer-00599C?style=for-the-badge" />
   </a>
 
   <a href="https://forums.malwarebytes.com/profile/332532-xyntrax/" target="_blank">
