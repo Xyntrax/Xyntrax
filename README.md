@@ -74,3 +74,13 @@
    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/DaVinci_Resolve_Studio.png" alt="DaVinci Resolve Studio" width="40" height="40"/>
   </a>
 </p>
+
+<p float="left" align="center">
+  <img src="https://media.tenor.com/cyORI7kwShQAAAAi/shigure-ui-dance.gif" width="250" />
+  <img src="https://media.tenor.com/ADP4nszb5AcAAAAi/shigure-ui-dance.gif" width="250" />
+  <img src="https://media.tenor.com/NJeAh5aFOjsAAAAi/shigure-ui-dance.gif" width="250" />
+</p>
+
+<p float="left" align="center">
+  <img src="https://media.tenor.com/seGvGe7Cp2cAAAAj/anime-bocchi.gif" width="250" />
+</p>
