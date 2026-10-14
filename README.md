@@ -2,7 +2,7 @@
 <h3 align="center">Self-taught in malware removal, remediation, and analysis with a passion for OSINT and prompt engineering. I also specialize in video and photo editing with DaVinci Resolve Studio.</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=xyntrax&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Xyntrax.Xyntrax" alt="Visitors" />
 </p>
 
 - 📖 Completed  [Malware Analysis for Hedgehogs (MAH)](https://www.malwareanalysis-for-hedgehogs.com/home) by **Karsten Hahn/Struppigel**
