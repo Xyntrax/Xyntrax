@@ -5,8 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=xyntrax&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-- 📖 I’m currently learning **MAH by Karsten Hahn/Struppigel**  
-  https://www.malwareanalysis-for-hedgehogs.com/home
+- 📖 Completed  [Malware Analysis for Hedgehogs (MAH)](https://www.malwareanalysis-for-hedgehogs.com/home) by **Karsten Hahn/Struppigel**
 
 <h3 align="left">Created Useful Tools</h3>
   <a href="https://github.com/Xyntrax/Malicious-App-Uninstaller" target="_blank">
