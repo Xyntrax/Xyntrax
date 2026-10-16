@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Xyntrax</h1>
-<h3 align="center">Independent Malware Analyst with a passion for OSINT and prompt engineering. I also specialize in video and photo editing with DaVinci Resolve Studio.</h3>
+<h3 align="center">Independent Malware Analyst with a passion for OSINT and Prompt Engineering. I also specialize in Video and Photo editing with DaVinci Resolve Studio.</h3>
 
 <p align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Xyntrax.Xyntrax" alt="visitors" />
