@@ -12,6 +12,14 @@
   <img src="https://img.shields.io/badge/Malicious%20App%20Uninstaller-181717?style=for-the-badge&logo=github&logoColor=white" alt="Malicious App Uninstaller"/>
   </a>
 
+  <a href="https://github.com/Xyntrax/JASS-Decryptor" target="_blank">
+  <img src="https://img.shields.io/badge/JASS%20Decryptor-181717?style=for-the-badge&logo=github&logoColor=white" alt="JASS Decryptor"/>
+  </a>
+
+  <a href="https://github.com/Xyntrax/SecurityCheck-Web-Parser" target="_blank">
+  <img src="https://img.shields.io/badge/SecurityCheck%20Web%20Parser-181717?style=for-the-badge&logo=github&logoColor=white" alt="SecurityCheck Web Parser"/>
+  </a>
+
   <a href="https://github.com/Xyntrax/FRST-Web-Cleaner" target="_blank">
     <img src="https://img.shields.io/badge/FRST%20Web%20Cleaner-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
