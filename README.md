@@ -9,15 +9,19 @@
 
 <h3 align="left">Created Useful Tools</h3>
   <a href="https://github.com/Xyntrax/Malicious-App-Uninstaller" target="_blank">
-  <img src="https://img.shields.io/badge/Malicious%20App%20Uninstaller-181717?style=for-the-badge&logo=github&logoColor=white" alt="Malicious App Uninstaller"/>
+    <img src="https://img.shields.io/badge/Malicious%20App%20Uninstaller-181717?style=for-the-badge&logo=github&logoColor=white" alt="Malicious App Uninstaller"/>
   </a>
 
   <a href="https://github.com/Xyntrax/JASS-Decryptor" target="_blank">
-  <img src="https://img.shields.io/badge/JASS%20Decryptor-181717?style=for-the-badge&logo=github&logoColor=white" alt="JASS Decryptor"/>
+    <img src="https://img.shields.io/badge/JASS%20Decryptor-181717?style=for-the-badge&logo=github&logoColor=white" alt="JASS Decryptor"/>
+  </a>
+
+  <a href="https://github.com/Xyntrax/HitmanPro-Log-Parser" target="_blank">
+    <img src="https://img.shields.io/badge/HitmanPro%20Log%20Parser-181717?style=for-the-badge&logo=github&logoColor=white" alt="HitmanPro Log Parser"/>
   </a>
 
   <a href="https://github.com/Xyntrax/SecurityCheck-Web-Parser" target="_blank">
-  <img src="https://img.shields.io/badge/SecurityCheck%20Web%20Parser-181717?style=for-the-badge&logo=github&logoColor=white" alt="SecurityCheck Web Parser"/>
+    <img src="https://img.shields.io/badge/SecurityCheck%20Web%20Parser-181717?style=for-the-badge&logo=github&logoColor=white" alt="SecurityCheck Web Parser"/>
   </a>
 
   <a href="https://github.com/Xyntrax/FRST-Web-Cleaner" target="_blank">
@@ -41,7 +45,7 @@
   </a>
 
   <a href="https://xyntrax-buildresume.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Resume%20Builder-181717?style=for-the-badge&logo=vercel&logoColor=white" alt="Resume Builder"/>
+    <img src="https://img.shields.io/badge/Resume%20Builder-181717?style=for-the-badge&logo=vercel&logoColor=white" alt="Resume Builder"/>
   </a>
 
 <h3 align="left">Connect with me</h3>
@@ -52,6 +56,10 @@
 
   <a href="https://forums.malwarebytes.com/profile/332532-xyntrax/" target="_blank">
      <img src="https://img.shields.io/badge/Malwarebytes_Forums-0099E5?style=for-the-badge&logo=malwarebytes&logoColor=white" alt="Malwarebytes Forums"/>
+  </a>
+
+  <a href="https://www.kaldata.com/forums/profile/514298-xyntrax/" target="_blank">
+    <img src="https://img.shields.io/badge/Kaldata-00599C?style=for-the-badge" alt="Kaldata"/>
   </a>
 
   <a href="https://www.reddit.com/user/Xyntrax0/" target="_blank">
